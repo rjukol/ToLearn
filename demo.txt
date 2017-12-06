@@ -4,3 +4,5 @@ Hello, this is my third change and it's fun to learn the git system. "Hi this is
 Hi git, this is going to be my fifth change. 
 
 Hi git, this is going to be my sixth change. this is bla bla.
+
+Hi git, this is going to be my sevent change. how are you.
